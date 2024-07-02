@@ -25,7 +25,7 @@ The primary objective is to enhance user engagement, expand the platform's reach
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
-
+- [**Dataset Link**](https://github.com/amanat-mahmud/social_medial_analysis/tree/main/Dataset)
 - [**ER Digram**]()
 
 ## 🔎 Key Findings
@@ -54,7 +54,7 @@ The primary objective is to enhance user engagement, expand the platform's reach
 ## 📌 Project Presentation
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/sales%20performance%20analysis.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/social%20media%20analysis.pdf)
 
 ## 🧠 Project Learnings
 1. Crreating new schema and table.
@@ -73,3 +73,4 @@ The detailed presentation slides for this project can be found [here](https://gi
 - Create new schema
 - Create new table
 - Import CSV into the table
+- If import doesn't work try removing table headers and import again
