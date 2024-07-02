@@ -26,7 +26,7 @@ The primary objective is to enhance user engagement, expand the platform's reach
 ## 📅 Dataset Overview
 - **Data source:** Internet
 - [**Dataset Link**](https://github.com/amanat-mahmud/social_medial_analysis/tree/main/Dataset)
-- [**ER Digram**]()
+- [**Data model**](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
 1. #beautiful is the most used hashtag, closely followed by #festival and #socialmedia
