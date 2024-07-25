@@ -59,7 +59,7 @@ The primary objective is to enhance user engagement, expand the platform's reach
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
-1. Crreating new schema and table.
+1. Creating new schema and table.
 2. Group by.
 3. Join tables.
 4. Common Table Expressions (CTE).
