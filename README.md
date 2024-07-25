@@ -52,9 +52,11 @@ The primary objective is to enhance user engagement, expand the platform's reach
 10. Balance top influencer promotion with nurturing emerging active users
 
 ## 📌 Project Presentation
+### Video Presentation
+[![Social Media Analysis Presentation](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/cover.png)]()
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/social%20media%20analysis.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Crreating new schema and table.
