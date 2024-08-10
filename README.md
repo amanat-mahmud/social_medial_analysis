@@ -53,7 +53,7 @@ The primary objective is to enhance user engagement, expand the platform's reach
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![Social Media Analysis Presentation](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7222230435827785728/)
+[![Social Media Analysis Presentation](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_beautiful-festival-socialmedia-activity-7222843175541858304-l4FY?utm_source=share&utm_medium=member_desktop)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/slide.pdf)
